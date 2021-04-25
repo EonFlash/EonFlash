@@ -1,9 +1,7 @@
-### Hi there 👋
+### Konichiwa!!.....Hi I am Chintan 👋
 
-<!--
-**EonFlash/EonFlash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cs undergrad who loves anime, manga and meeting new people.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a personal project
 - 🌱 I’m currently learning Web Development and DS
